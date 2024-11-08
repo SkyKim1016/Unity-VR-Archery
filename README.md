@@ -5,5 +5,5 @@ Studied in the VR game lab using Unity with C# as part of Champlain College's VR
 ![Archery VR lab](https://github.com/user-attachments/assets/e9de6214-da4d-455f-bc4e-12d9db0784ca)
 
 
-https://github.com/user-attachments/assets/6cd8b8f1-019f-4fba-be34-36e8af915963
+
 
